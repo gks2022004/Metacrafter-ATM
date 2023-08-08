@@ -1,12 +1,12 @@
-# ETH-ATM
+# Metacrafter-ATM
 
 ## Description
 
-ETH-ATM is a simple decentralized application (Dapp) that allows users to deposit and withdraw funds using Ethereum. It demonstrates the functionality of depositing and withdrawing Ether (ETH) from a smart contract.
+Metacrafter-ATM is a simple decentralized application (Dapp) that allows users to deposit and withdraw funds using Ethereum. It demonstrates the functionality of depositing and withdrawing Ether (ETH) from a smart contract.
 
 ## Usage
 
-To run the ETH-ATM Dapp locally on your computer, follow these steps:
+To run the Metacrafter-ATM Dapp locally on your computer, follow these steps:
 
 ### Prerequisites
 
@@ -17,7 +17,7 @@ To run the ETH-ATM Dapp locally on your computer, follow these steps:
 
 1. Clone the GitHub repository to your local machine:
 2. git clone repo-Url
-3. Change into the project directory: cd ETH-ATM
+3. Change into the project directory: cd Metacrafter-ATM
 4. Install the project dependencies
 5. npm install
    
@@ -29,7 +29,7 @@ To run the ETH-ATM Dapp locally on your computer, follow these steps:
    
 3. Finally, start the Dapp on your local development server using the command: npm run dev
  
-4. Access the Dapp in your web browser at http://localhost:3000/ to interact with the ETH-ATM.
+4. Access the Dapp in your web browser at http://localhost:3000/ to interact with the Metacrafter-ATM.
 
 
 
